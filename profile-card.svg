@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="595" height="258" viewBox="0 0 595 258"
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="258" viewBox="0 0 840 258"
      font-family="Consolas, monospace" font-size="16" fill="#c9d1d9">
   <style>
     .key { fill: #ffa657; }
@@ -8,9 +8,8 @@
     text, tspan { white-space: pre; }
   </style>
 
-  <rect width="595" height="258" rx="15" fill="#161b22"/>
+  <rect width="100%" height="100%" rx="15" fill="#161b22"/>
 
-  <!-- Enter your details between the opening and closing value tags. -->
   <text x="15" y="30"><tspan class="cc">. </tspan><tspan class="key">Machine</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">14" MacBook Pro, M5 Pro, 48GB RAM, 1TB SSD</tspan></text>
   <text x="15" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">MacOS 27.2, Golden Gate</tspan></text>
   <text x="15" y="70"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">VS Code 1.145</tspan></text>
@@ -23,6 +22,6 @@
   <text x="15" y="190"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Physical</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Sprinting, Rock Climbing, Reading, Biking, Violin</tspan></text>
 
   <text x="15" y="218">- Contact</text>
-  <line x1="110" y1="213" x2="580" y2="213" stroke="#616e7f"/>
+  <line x1="110" y1="213" x2="825" y2="213" stroke="#616e7f"/>
   <text x="15" y="238"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">anipiso9989@gmail.com</tspan></text>
 </svg>
