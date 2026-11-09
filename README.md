@@ -1,1 +1,1 @@
-![Profile card](./profile-card.svg)
+![Ani’s profile card](./profile-card.svg)
