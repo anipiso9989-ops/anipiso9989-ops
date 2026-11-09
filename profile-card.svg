@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="595" height="258" viewBox="0 0 595 258"
+     font-family="Consolas, monospace" font-size="16" fill="#c9d1d9">
+  <style>
+    .key { fill: #ffa657; }
+    .value { fill: #a5d6ff; }
+    .cc { fill: #616e7f; }
+    text, tspan { white-space: pre; }
+  </style>
+
+  <rect width="595" height="258" rx="15" fill="#161b22"/>
+
+  <!-- Enter your details between the opening and closing value tags. -->
+  <text x="15" y="30"><tspan class="cc">. </tspan><tspan class="key">Machine</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">14" MacBook Pro, M5 Pro, 48GB RAM, 1TB SSD</tspan></text>
+  <text x="15" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">MacOS 27.2, Golden Gate</tspan></text>
+  <text x="15" y="70"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">VS Code 1.145</tspan></text>
+
+  <text x="15" y="100"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Python</tspan></text>
+  <text x="15" y="120"><tspan class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">HTML/CSS/JS, JSON, Markdown, KaTeX</tspan></text>
+  <text x="15" y="140"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">English, Marathi, Spanish (kinda)</tspan></text>
+
+  <text x="15" y="170"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Digital</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Building, Video Games</tspan></text>
+  <text x="15" y="190"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Physical</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Sprinting, Rock Climbing, Reading, Biking, Violin</tspan></text>
+
+  <text x="15" y="218">- Contact</text>
+  <line x1="110" y1="213" x2="580" y2="213" stroke="#616e7f"/>
+  <text x="15" y="238"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">anipiso9989@gmail.com</tspan></text>
+</svg>
